@@ -1,0 +1,36 @@
+.randomtext{
+    background-color: lightblue;
+    padding: 20px 10px 40px 20px;
+    color: red;
+    width: 50%;
+    border-style: dotted;
+    border-width: 20px;
+    border-radius: 50px;
+    border-color: darkblue;
+    font-family: "Arial"
+}
+
+#randomtext2{
+    background-color: black;
+    color: white;
+    padding: 20px 10px 40px 20px;
+    width: 50%;
+    border-style: dashed;
+    border-width: 20px;
+    border-radius: 50px;
+    border-color: darkred;
+    font-family: cursive;
+
+}
+
+.randomtext3{
+    background-color: green;
+     color: purple;
+     padding: 20px 10px 40px 20px;
+     width: 50%;
+     border-style: dotted dashed solid double;
+     border-width: 20px;
+     border-radius: 50px;
+     border-color: black;
+     font-weight: 1000;
+}
